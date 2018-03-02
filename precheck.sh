@@ -1,4 +1,9 @@
 #!/bin/bash
+#
+# Usage: wget https://raw.githubusercontent.com/relybv/claranet-dirict_provisioning/master/precheck.sh && sudo bash precheck.sh
+#
+
+
 REPO='https://github.com/relybv/claranet-dirict_provisioning.git'
 SSHKEY='id_rsa'
 # SERVERS=( "192.168.86.39" "192.168.86.39" )
